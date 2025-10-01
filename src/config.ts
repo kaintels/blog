@@ -70,6 +70,11 @@ export const profileConfig: ProfileConfig = {
 		// 	url: "https://store.steampowered.com",
 		// },
 		{
+			name: "",
+			icon: "fa6-regular:file-lines",
+			url: "https://kaintels.github.io/resume",
+		},
+		{
 			name: "",//"GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/kaintels",//"https://github.com/saicaca/fuwari",
